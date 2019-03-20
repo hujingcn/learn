@@ -12,7 +12,7 @@ git   init   //初始化
 2.添加文件到仓库
 touch test
 git add test
-git commit -m "commit"
+git commit -m test
 git status  //查询仓库状态
 git log    //版本历史记录查看
 
